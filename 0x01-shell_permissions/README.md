@@ -8,3 +8,4 @@
 7.Adds execution permission to the owner, the group owner and the other users, to the file hello.
 8.Gives no permission to owner and group, but gives all permissions to other users.
 9.Sets the mode of the file hello to -rwxr-x-wx...
+10.Sets the mode of the file hello the same as olleh’s mode.
