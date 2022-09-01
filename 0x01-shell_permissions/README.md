@@ -3,3 +3,4 @@
 2.Prints all the groups the current user is part of.
 3.Changes the owner of a file to another user.
 4.Creates and empty file called hello.
+5.Adds execute permission to the owner of the file hello.
